@@ -44,7 +44,7 @@ Abaixo, um gabarito das medidas em cada tamanho:
 
 
 E um gif do comportamento esperado:
-![](https://jslpfmlhyrzjbddidwga.supabase.co/storage/v1/object/public/assets-conteudo/imagens/exemplo-responsivo.gif)
+![](https://jslpfmlhyrzjbddidwga.supabase.co/storage/v1/object/public/assets-conteudo/imagens/responsividade-pratica.gif)
 
 ## Informações úteis sobre o assunto:
 
